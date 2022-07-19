@@ -40,14 +40,13 @@
     "not op_mini all"
   ],
   "devDependencies": {
-<<<<<<< HEAD
-    "gh-pages": "^4.0.0",
+
+    "gh-pages": "4.0.0",
     "lite-server": "2.3"
   },
   "dependencies": {
-    "deploy-to-git": "^0.4.1"
-=======
-    "gh-pages": "^2.2.0"
->>>>>>> ff3502dccf0d37c2a3864dbe40507509afdeca23
+    "deploy-to-git": "0.4.1",
+
+    "gh-pages": "2.2.0"
   }
 }
