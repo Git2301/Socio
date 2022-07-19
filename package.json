@@ -1,6 +1,8 @@
 {
   "name": "eth-marketplace",
-  "version": "0.1.0",
+
+  "version": "1.1.0",
+
   "main": "index.js",
   "dependencies": {
     "babel-polyfill": "6.26.0",
